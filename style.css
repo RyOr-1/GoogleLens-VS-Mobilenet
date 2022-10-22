@@ -1,0 +1,23 @@
+.headingSmall {
+    background: white;
+    font-size: 18px;
+    color: black;
+    border-radius: 20px;
+    padding-bottom: 10px;
+    width: 1000px;
+}
+
+.heading {
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 50px;
+}
+
+.imageAndResults {
+    background-color: grey;
+}
+
+hr {
+    height: 5px;
+    background-color: black;
+}
